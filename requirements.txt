@@ -1,6 +1,7 @@
-streamlit
 pandas
-matplotlib
 plotly
+streamlit
+glob 
+openpyxl
+matplotlib
 seaborn
-numpy
