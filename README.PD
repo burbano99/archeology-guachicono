@@ -1,0 +1,22 @@
+# Archaeological Ceramic Analysis
+
+This project analyzes a ceramic assemblage from archaeological excavations in Guachicono, Cauca.
+
+The dashboard was built using Streamlit and allows interactive exploration of:
+
+- Ceramic distribution by grid
+- Fragment types
+- Vessel types
+- Thickness distribution
+- Temper size analysis
+
+## Tools
+- Python
+- Pandas
+- Matplotlib
+- Streamlit
+
+## Run the project
+
+```bash
+streamlit run app.py
