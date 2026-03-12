@@ -1,7 +1,7 @@
-pandas
-plotly
 streamlit
-glob 
-openpyxl
+pandas
 matplotlib
+plotly
 seaborn
+openpyxl
+numpy
